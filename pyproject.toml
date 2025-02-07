@@ -8,7 +8,9 @@ authors = []
 maintainers = []
 dependencies = [
     "ipykernel>=6.29.5",
+    "matplotlib>=3.10.0",
     "pandas>=2.2.3",
+    "pyarrow==18.1.0",
     "requests>=2.32.3",
     "tqdm>=4.67.1",
 ]
